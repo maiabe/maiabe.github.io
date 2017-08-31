@@ -9,7 +9,7 @@ labels:
   - Sales
   - Marketing
   - Business
-summary: Wroked on product idea competition amongst employees at Malie Kai Chocolates.  
+summary: Wroked on product ideas amongst employees at Malie Kai Chocolates.  
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
