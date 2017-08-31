@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+title: Shooting Game
+permalink: projects/shooting_game
+date: 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Eclipse
+summary: My group created a simple shooting game for ICS 111 final project using Java programming. 
 ---
 
 <div class="ui small rounded images">
@@ -19,11 +18,12 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Final project for ICS 111 class was the first group programming project that I have participated into. We used Java programming with Eclipse, and our final project was to create anything using the skills we have learned over the semester.  My group created a simple shooting game, where the squares on the screen shoot downwards and the triangle which is the player-controlled object that can shoot back at the squares. When all of the squares are shot by the triangle, the player can proceed to the next level. We created three levels, where bullet speed that the enemies shoot at you increases as the level goes up. The player has 20 lives, and can earn 1 point each time the player hits the enemy with its bullets. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For the project, we planned out what everybody’s role is going to be to complete the project, but it became harder when one of our group members left the team before we wrote any of the code for the project. Despite an unexpected work load, my group was able to complete the project. I contributed to creating enemies and making them shoot bullets at a certain speed, making enemies disappear when they get shot, randomize bullet speeds accordingly, making levels of difficulty, and adding sound effects. 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Through this project, the most important thing I learned was to work as a group. Combining somebody else’s code with yours was a harder task than I thought, since everybody writes code differently and you have to understand their code. When our combined code was not working and we got stuck, I read the code and went over it many times to understand what is going on and later I was able to fix the error. Other than group work, I learned basic Java programming skills through this project such as being able to utilize for loop, making classes for the objects, scoping code in the correct way, adding images and sound effects, making objects user-controllable, etc. 
+
 
 
 
