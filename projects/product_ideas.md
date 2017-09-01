@@ -16,6 +16,9 @@ summary: Wroked on product ideas amongst employees at Malie Kai Chocolates.
 <img class="ui medium right floated rounded image" src="../images/logoitem-4.jpg">
 
 
+
+
+
 When I was working at Malie Kai Chocolates as a sales associate position, there was a small competition amongst 4-5 people to produce ideas about new products for the company. Malie Kai Chocolates is a local company that promotes and sells locally-made cacao chocolates. They also offer logo items on the side such as tote bags and purses. In the competition, the workers were asked to submit ideas for a possible new logo item that promotes the brand. I was able to come in first place for the competition, and got awarded for it.
 
 
