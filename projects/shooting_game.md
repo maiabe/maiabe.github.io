@@ -13,9 +13,6 @@ summary: My group created a simple shooting game for ICS 111 final project using
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
 My final project for ICS 111 class was the first group programming project that I have ever participated into. We used Java programming with Eclipse, and our final project was to create anything using the skills we have learned over the semester.  My group created a simple shooting game, where the squares on the screen shoot downwards and the triangle which is the player-controlled object that can shoot back at the squares. When all of the squares are shot by the triangle, the player can proceed to the next level. We created three levels, where bullet speed that the enemies shoot at you increases as the level goes up. The player has 20 lives, and can earn 1 point each time the player hits the enemy with its bullets. 
