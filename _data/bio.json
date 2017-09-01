@@ -97,18 +97,6 @@
       ]
     },
     {
-      "company": "DM Service Co.",
-      "position": "Server",
-      "website": "",
-      "startDate": "2012-12-01",
-      "endDate": "2013-09-01",
-      "summary": "Served seasonal dishes and fresh drinks for residents in the Ark Hills Residence",
-      "highlights": [
-        "Serve in a high-end resident lounge at Ark Hills Residence.",
-        "Guid tour for English-speaking customers at the spa in the facility."
-      ]
-    },
-  {
       "company": "Ideal808",
       "position": "",
       "website": "",
@@ -118,6 +106,18 @@
       "highlights": [
         "pricing products accordingly",
         "sorting and organizing products"
+      ]
+    },
+    {
+      "company": "DM Service Co.",
+      "position": "Server",
+      "website": "",
+      "startDate": "2012-12-01",
+      "endDate": "2013-09-01",
+      "summary": "Served seasonal dishes and fresh drinks for residents in the Ark Hills Residence",
+      "highlights": [
+        "Serve in a high-end resident lounge at Ark Hills Residence.",
+        "Guid tour for English-speaking customers at the spa in the facility."
       ]
     }
   ],
