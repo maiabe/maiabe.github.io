@@ -2,9 +2,7 @@
 layout: project
 type: project
 image: images/Shooting_Game_1.png
-<center>
-title: Shooting Game
-</center>
+title: <center>Shooting Game</center>
 permalink: projects/shooting_game
 date: 2016
 labels:
