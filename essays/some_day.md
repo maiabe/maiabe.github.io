@@ -8,6 +8,10 @@ labels:
   - Learning
 ---
 
+<div align="middle">
+  <img class="ui image" src="../images/luca-bravo-217276.jpg">
+</div>
+
 
 <h1>Motivated to make money</h1>
 
