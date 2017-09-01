@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/MalieKaiLogo.jpg
 title: Product Idea Competition
-permalink: projects/vacay
+permalink: projects/product_idea_competition
 date: 2015
 labels:
   - Sales
