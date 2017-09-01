@@ -23,6 +23,6 @@ Of course being able to do things such as this is beyond the reach at the moment
 
 <h1>After taking the first year of CS courses</h1>
 
-I learned that programming can cause a lot of headaches especially when you get stuck writing codes. However, you feel accomplished when you do get it right, and make the computer do what you want it to do. I enjoy facing challenges and work hard to accomplish them. So far, I am enthusiastic to learn more about programming through software engineering class, and face more challenges to accomplish them. 
+I learned that programming can cause a lot of headaches especially when you get stuck writing codes. However, you feel accomplished when you do get it right, and make the computer do what you want it to do. I enjoy facing challenges and working hard to accomplish them. So far, I am enthusiastic to learn more about programming through software engineering class, and face more challenges to accomplish them. 
 
 
