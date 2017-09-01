@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/shooting_game_1.jpg
+image: images/shooting_game_1.png
 title: Shooting Game
 permalink: projects/shooting_game
 date: 2016
