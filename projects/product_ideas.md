@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/MalieKaiLogo.jpg
-title: <div align="middle"> Product Idea Competition </div>
+title: <center> Product Idea Competition </center>
 permalink: projects/product_idea_competition
 date: 2015
 labels:
