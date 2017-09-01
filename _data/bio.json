@@ -49,7 +49,7 @@
       "name": "Language",
       "level": "",
       "keywords": [
-        "Java"
+        "Java",
         "Javascript"
       ]
     },
@@ -57,7 +57,7 @@
       "name": "Bilingual",
       "level": "",
       "keywords": [
-        "Japanese"
+        "Japanese",
         "English"
       ]
     },
@@ -65,7 +65,7 @@
       "name": "Sales",
       "level": "",
       "keywords": [
-        "customer service"
+        "customer service",
         "marketing"
       ]
     }
@@ -92,7 +92,7 @@
       "summary": "Worked as sales associate to sell locally-made chocolates in Oahu, Hawaii",
       "highlights": [
         "Contribute to increase sales through customer service",
-        "Spread the knowledge about locally made Hawaiian products"
+        "Spread the knowledge about locally made Hawaiian products",
         "Training new employees"
       ]
     }
@@ -116,7 +116,7 @@
       "endDate": "2016-09-01",
       "summary": "",
       "highlights": [
-        "pricing products accordingly"
+        "pricing products accordingly",
         "sorting and organizing products"
       ]
     }
