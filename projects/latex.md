@@ -10,6 +10,9 @@ labels:
 summary: A technical document created using Latex.  
 ---
 
+<div align="middle">
+  <img class="ui image" src="../images/latex_1.png">
+</div>
 
 <Br>
   
