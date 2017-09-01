@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/latex-logo.png
-title: Latex
+title: <center> Latex </center>
 permalink: projects/latex
 date: 2016
 labels:
