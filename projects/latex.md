@@ -23,6 +23,8 @@ In ICS 141, we were encouraged to use Latex when we turn in homework because Lat
 Through this mini project, I learned how to display mathematical equations such as summation notation, how to create titles and body, customize margins, highlighting words, etc. Through making more documents, I also learned how to draw tables, displaying mathematical symbols like logarithms, square root, conditional statements, etc. 
 
 
-
-Here is one of the documents I created using Latex, explaining about how to read summation notation. 
+<Br>
+Here is one of the documents I created using Latex, explaining about how to read summation notation: 
+  
+  <a href="/master/Example 3.pdf">Latex File</a>
 
