@@ -12,7 +12,7 @@ labels:
 summary: Wroked on product ideas amongst employees at Malie Kai Chocolates.  
 ---
 
-<div align=“middle”><img src=“/images/logoitem-1.jpg”></div>
+<div align=“middle”><img src=“logoitem-1.jpg”></div>
 
 
 
