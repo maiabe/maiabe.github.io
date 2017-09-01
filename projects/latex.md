@@ -26,5 +26,5 @@ Through this mini project, I learned how to display mathematical equations such 
 <Br>
 Here is one of the documents I created using Latex, explaining about how to read summation notation: 
   
-  <a href="/master/Example 3.pdf">Latex File</a>
+  <a href="/images/Example 3.pdf">Latex File</a>
 
