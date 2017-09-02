@@ -42,6 +42,11 @@
       "name": "artificial intelligence",
       "keywords": [
       ]
+    },
+    {
+      "name": "investing",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -54,19 +59,29 @@
       ]
     },
     {
+      "name": "Sales",
+      "level": "",
+      "keywords": [
+        "customer service",
+        "marketing"
+      ]
+    },
+    {
       "name": "Bilingual",
       "level": "",
       "keywords": [
         "Japanese",
         "English"
       ]
-    },
+    }
+  ],
+  "toolsets": [
     {
-      "name": "Sales",
+      "name": "",
       "level": "",
       "keywords": [
-        "customer service",
-        "marketing"
+        "MacOS",
+        "Eclipse"
       ]
     }
   ],
