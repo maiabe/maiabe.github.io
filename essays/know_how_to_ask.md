@@ -1,10 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Some Day When My Decision Pays Off
-date: 2017-08-31
+title: Know How to Ask
+date: 2017-09-07
 labels:
   - Software Engineering
+  - Open Source Software
   - Learning
 ---
 
