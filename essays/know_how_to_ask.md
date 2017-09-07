@@ -16,12 +16,11 @@ We encounter people asking questions everyday. In school, somebody may ask, "Do 
 
 
 
-<h1>How I gained interest in computer science</h1>
+<h1>Bad Question</h1>
 
-Being in a business environment and meeting people through work allowed me to gain knowledge about today’s technology and business. When I first heard and read about a person named Elon Musk, I was fascinated by the fact that there was somebody who is creating things through technology and succeeding to make the world better. I gained more interest about computers and technology as I researched more about his companies such as Tesla, SpaceX, Solar City and the Boring Company. Recently, I am also interested in cryptocurrencies such as Bitcoin and Ethereum. Every time, I ask myself wouldn’t it be nice if I knew how to create algorithms to mine coins that keep making money on its own…. Such topics inspire me to make more money efficiently. 
-
-Of course being able to do things such as this is beyond the reach at the moment, but knowing about what is out there in the world today encouraged me to change my major to computer science. Prior to my decision, I was declared as an economics major because I could have graduated in a shorter amount of time compared to many of the other majors. Majoring in computer science definitely hurts me financially at this moment, but I decided to choose a harder path believing it will pay off in the future. 
-
+In order to invoke smart questions, we always need to keep in mind to be in the shoes of a person who will review the question and possibly answer it. No-so-smart questions could be ignored or replied in a negative way, since not many people would enjoy wasting time answering bad questions. 
+For example, questions like this [bad example](https://stackoverflow.com/questions/36355927/setter-doesnt-work) already can be perceived as a low-quality question just by looking at the subject line and is likely to be ignored by many potential respondents. Most importantly, the question itself is not a question because the author is stating that the code does not work. [what not to ask](http://www.catb.org/esr/faqs/smart-questions.html#classic) This example also lacks clear, grammatical and correctly spelled language, which would again give a bad impression to the reader. In addition, the author must provide a mimal, but sufficient amount of code to explain the bug so that the readers can understand. Overall, the question seems to be posted and writen in a rush, with no clear focus or thought behind it. 
+As this example shows, bad questions often do no receive clear and thorough responses. In fact, the post was closed and explained as off-topic by other users for reasons as explained above. The sole response was written in an equally careless manner. 
 
 <h1>After taking the first year of CS courses</h1>
 
