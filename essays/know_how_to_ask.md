@@ -9,9 +9,11 @@ labels:
   - Learning
 ---
 
-<h1>Motivated to make money</h1>
+<h1>As a Software Engineer</h1>
 
-As a child, I was lucky enough that my parents cared very much about my education, so I went to good schools that helped foster me to be an open-minded person. My parents didn’t earn a lot of money, but it was their priority to send their kids to good schools no matter how difficult financially it was. When I was 19 years old, I learned that my family could no longer support me financially to go to school. At that time, I was working as a waitress at a resident lounge in Tokyo. I was making a decent amount of money despite my experience, thanks in part to my education listed on my resume. However, I did not want to settle at that because I could not say that I like doing what I do to make money. So it became my goal to finish a 4-year college on my own to be able to get a better job. I was motivated to make more money as time went by because I had to pay for my tuition also. Over the last five years, I worked as a waitress, worked at an office doing some miscellaneous duties, and worked as a sales associate. 
+We encounter people asking questions everyday. In school, somebody may ask, "Do we have a final exam?" You will probably be told to go and look at the course syllabus in response. Questions like this implies that the person has not put any effort to search for an answer themselves. Those who really want to learn would invest the time and energies to answer the question through whatever means necessary, or at least until they ran out of options. To become a skilled and resourceful software engineer, we want to continually learn no matter how many times we run into a wall. In order to continue doing so, we need to be able to ask smart questions that invoke high-quality answers that we can enchane our knowledge with. 
+
+
 
 
 <h1>How I gained interest in computer science</h1>
