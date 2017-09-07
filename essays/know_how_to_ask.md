@@ -1,34 +1,33 @@
 ---
 layout: essay
 type: essay
-title: Know How to Ask
-date: 2017-09-7
+title: Some Day When My Decision Pays Off
+date: 2017-08-31
 labels:
   - Software Engineering
-  - Open Source Software
   - Learning
 ---
 
-
-<h1>As a Software Engineer</h1>
-
-We encounter people asking questions everyday. In school, somebody might ask, “Do we have a final exam?” You will probably be asked to go and look at the course syllabus for such question. Questions like this implies that the person has not put any effort to search for an answer herself. Those who really want to learn would put effort into try and look for an answer themselves until they get completely stuck. To become a smart software engineer, we want to keep learning no matter how many times we run into a wall. In order to keep learning, we need to be able to ask smart questions that invoke high-quality answers that we can learn greatly from. 
-
-
-<h1>Bad Question</h1>
-
-In order to be able to ask smart questions, we always need to keep in mind to be in the shoes of a person who will review the question and possibly answer it. Not-so-smart questions could be ignored or replied in a negative way, since not many people would enjoy wasting time answering bad questions. 
-As an example, questions like this [Bad Example](https://stackoverflow.com/questions/36355927/setter-doesnt-work) already can be perceived as a low-quality question just by looking at the subject line and is likely to be ignored by many potential respondents. Most importantly, the question itself is not a question because the author is stating that the code does not work. The example also lack of clear, grammatical and correctly spelled language, which would again give bad impression to the reviewers. To add on, the author must provide a minimal, but sufficient amount of code to explain the bug so that the readers can understand. Overall, the question seems to be posted and written in a rush, with no good thought put into it.  
-As this example shows, bad questions often do not receive well-established answers. In fact, the post is closed as off-topic by some users for reasons like ones explained earlier. The only response the post has seem to be written in a careless manner. 
+<div align="middle">
+  <img class="ui image" src="../images/luca-bravo-217276.jpg">
+</div>
 
 
-<h1>Good Question</h1>
+<h1>Motivated to make money</h1>
 
-Unlike the example above, a high-quality questions have high-quality answers. Here is an example of a good question that is asked in a smart way. First of all, the example question is very easy to understand. It explicitly and precisely describes what the problem and the question is. The author also explains the problem in a chronological order, explaining what she has been doing prior to the problem and what part of code she changed when the problem occurred. 
-For this question, there are a lot of well-established and detailed answers that help the author understand the concept of equalities in Java. The respondents of the question also sound eager to share their knowledge to the author. Although the examples provided are merely a couple of many questions asked, high-quality questions seem to attract high-quality responses. 
+As a child, I was lucky enough that my parents cared very much about my education, so I went to good schools that helped foster me to be an open-minded person. My parents didn’t earn a lot of money, but it was their priority to send their kids to good schools no matter how difficult financially it was. When I was 19 years old, I learned that my family could no longer support me financially to go to school. At that time, I was working as a waitress at a resident lounge in Tokyo. I was making a decent amount of money despite my experience, thanks in part to my education listed on my resume. However, I did not want to settle at that because I could not say that I like doing what I do to make money. So it became my goal to finish a 4-year college on my own to be able to get a better job. I was motivated to make more money as time went by because I had to pay for my tuition also. Over the last five years, I worked as a waitress, worked at an office doing some miscellaneous duties, and worked as a sales associate. 
 
 
-<h1>To Become a Smart One</h1>
+<h1>How I gained interest in computer science</h1>
 
-The purpose of asking smart questions is to learn from the answers provided by the contributors. Bad questions are unlikely to receive high-quality answers. Therefore, to become a smart software engineer, one must learn how to ask questions in a smart way. As long as a person is persistent and eager to learn, pitfalls of bad questions could be avoided, and will likely to succeed in learning from others. 
+Being in a business environment and meeting people through work allowed me to gain knowledge about today’s technology and business. When I first heard and read about a person named Elon Musk, I was fascinated by the fact that there was somebody who is creating things through technology and succeeding to make the world better. I gained more interest about computers and technology as I researched more about his companies such as Tesla, SpaceX, Solar City and the Boring Company. Recently, I am also interested in cryptocurrencies such as Bitcoin and Ethereum. Every time, I ask myself wouldn’t it be nice if I knew how to create algorithms to mine coins that keep making money on its own…. Such topics inspire me to make more money efficiently. 
+
+Of course being able to do things such as this is beyond the reach at the moment, but knowing about what is out there in the world today encouraged me to change my major to computer science. Prior to my decision, I was declared as an economics major because I could have graduated in a shorter amount of time compared to many of the other majors. Majoring in computer science definitely hurts me financially at this moment, but I decided to choose a harder path believing it will pay off in the future. 
+
+
+<h1>After taking the first year of CS courses</h1>
+
+I learned that programming can cause a lot of headaches especially when you get stuck writing codes. However, you feel accomplished when you do get it right, and make the computer do what you want it to do. I enjoy facing challenges and working hard to accomplish them. So far, I am enthusiastic to learn more about programming through software engineering class, and face more challenges to accomplish them. 
+
+
 
