@@ -22,9 +22,14 @@ We encounter people asking questions everyday. In school, somebody may ask, "Do 
 <p>For example, questions like this <a href="https://stackoverflow.com/questions/36355927/setter-doesnt-work">bad example</a> already can be perceived as a low-quality question just by looking at the subject line and is likely to be ignored by many potential respondents. Most importantly, the question itself is not a question because the author is stating that the code does not work. <a href="http://www.catb.org/esr/faqs/smart-questions.html#classic">what not to ask</a> This example also lacks clear, grammatical and correctly spelled language, which would again give a bad impression to the reader. In addition, the author must provide a mimal, but sufficient amount of code to explain the bug so that the readers can understand. Overall, the question seems to be posted and writen in a rush, with no clear focus or thought behind it. </p>
 <p>As this example shows, bad questions often do no receive clear and thorough responses. In fact, the post was closed and explained as off-topic by other users for reasons as explained above. The sole response was written in an equally careless manner. </p>
 
-<h1>After taking the first year of CS courses</h1>
+<h1>Good Question</h1>
 
-I learned that programming can cause a lot of headaches especially when you get stuck writing codes. However, you feel accomplished when you do get it right, and make the computer do what you want it to do. I enjoy facing challenges and working hard to accomplish them. So far, I am enthusiastic to learn more about programming through software engineering class, and face more challenges to accomplish them. 
+
+
+<h1>To Become a Smart Software Engineer</h1>
+
+The purpose of asking smart questions is to learn from the answers provided by the contributors. Bad questions are unlikely to receive high-quality answers. The ability to ask well-thought questions can help to facilitate clear and detailed responses by peers. Therefore, to become a smart software engineer, one must learn how to ask questions in a smart way.
+
 
 
 
