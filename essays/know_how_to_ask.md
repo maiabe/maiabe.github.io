@@ -28,7 +28,7 @@ Unlike the example above, a high-quality questions have high-quality answers. He
 For this question, there are a lot of well-established and detailed answers that help the author understand the concept of equalities in Java. The respondents of the question also sound eager to share their knowledge to the author. Although the examples provided are merely a couple of many questions asked, high-quality questions seem to attract high-quality responses. 
 
 
-<h1>To Become the Smart One</h1>
+<h1>To Become a Smart One</h1>
 
 The purpose of asking smart questions is to learn from the answers provided by the contributors. Bad questions are unlikely to receive high-quality answers. Therefore, to become a smart software engineer, one must learn how to ask questions in a smart way. As long as a person is persistent and eager to learn, pitfalls of bad questions could be avoided, and will likely to succeed in learning from others. 
 
