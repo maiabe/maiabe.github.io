@@ -9,11 +9,6 @@ labels:
   - Learning
 ---
 
-<div align="middle">
-  <img class="ui image" src="../images/luca-bravo-217276.jpg">
-</div>
-
-
 <h1>Motivated to make money</h1>
 
 As a child, I was lucky enough that my parents cared very much about my education, so I went to good schools that helped foster me to be an open-minded person. My parents didn’t earn a lot of money, but it was their priority to send their kids to good schools no matter how difficult financially it was. When I was 19 years old, I learned that my family could no longer support me financially to go to school. At that time, I was working as a waitress at a resident lounge in Tokyo. I was making a decent amount of money despite my experience, thanks in part to my education listed on my resume. However, I did not want to settle at that because I could not say that I like doing what I do to make money. So it became my goal to finish a 4-year college on my own to be able to get a better job. I was motivated to make more money as time went by because I had to pay for my tuition also. Over the last five years, I worked as a waitress, worked at an office doing some miscellaneous duties, and worked as a sales associate. 
