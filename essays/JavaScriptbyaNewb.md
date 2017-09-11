@@ -11,7 +11,7 @@ labels:
 
 <h1>Misconceptions</h1>
 
-Before learning how to program in JavaScript, I learned that there are misconceptions held by many developers about JavaScript. One of the misconceptions is that JavaScript is not a real programming language. That is incorrect, JavaScript indeed is a real programming language often used to develop web browsers. Perhaps the misconception exists because JavaScript is one of the easiest languages to learn. We need to remind ourselves that programming languages were created so that people can have a easier way to communicate with computers. It is only logical to think that JavaScript enables us to meet such a goal, although I cannot be certain enough to have concrete reasonings to determine if JavaScript is good or bad with my inexperience. 
+Before learning how to program in JavaScript, I learned that there are misconceptions held by many developers about JavaScript. One of the misconceptions is that JavaScript is not a real programming language. That is incorrect, JavaScript indeed is a real programming language often used to develop web browsers. Perhaps the misconception exists because JavaScript is one of the easiest languages to learn. We need to remind ourselves that programming languages were created so that people can have an easier way to communicate with computers. It is only logical to think that JavaScript enables us to meet such a goal, although I cannot be certain enough to have concrete reasonings to determine if JavaScript is good or bad with my inexperience. 
 
 <h1>My experience with JavaScript comparing it to Java</h1>
 
