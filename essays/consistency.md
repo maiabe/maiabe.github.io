@@ -8,15 +8,7 @@ labels:
   - Learning
   - Coding Standards
 ---
----
-layout: essay
-type: essay
-title: Some Day When My Decision Pays Off
-date: 2017-08-31
-labels:
-  - Software Engineering
-  - Learning
----
+
 
 <p>The first thing that comes to mind when I think of standards are the company procedures and policies that all of the employees need to abide by. At my previous work place, we usually worked in shifts of 1 to 2 people at a time and there are 2 shifts per day. Everything runs pretty smoothly from the start up procedure each morning, to changing of shifts, and closing procedures at the end of the day. Having a coding standard in place is extremely beneficial in my eyes not only from the approach of learning a programming language but also for collaboration efforts, work environments, and many other practical things that software engineers do each day. </p>
 
