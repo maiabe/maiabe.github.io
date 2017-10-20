@@ -7,9 +7,11 @@ labels:
   - Software Engineering
   - Meteor
 ---
+<h3>Making apps using meteor</h3>
+
+<p>In our software engineering class, we are learning how to create a simple app using meteor. So far, we have learned how to include aspects in app such as logging in and signing in, making field of inputs for the clients, making it visible for servers also (or choose), ...etc. Specifically, we are working on an assignment called digits to create an app with all the aspects mentioned and more.</p>
 
 <p>Learning Meteor has been not as bad as it sounded for me. Although we still do not know very much about how to create an app using meteor completely on our own, following instructions has been pretty straight forward because we have all the resources provided. It is very nice to have instructions set up for you and you can work on it as the instruction explains what exactly we need to do and why we do it. However, even with precise instructions, I still made elementary mistakes that was very confusing to me at first. </p>
-
 
 <p>
 One of the biggest problems I had developing the digits application is to edit the correct files. Many times, I got confused with all the files that are named the same but in a different files. For example, it took me a while to figure out that I was editing a different index.js page. This is a huge problem because the app will stop running because you have imported a different file into that index.js file that you are not supposed to. For me to figure out what I was doing wrong, I looked at the video over and over again to follow each steps and find out what I was doing wrong. 
