@@ -11,7 +11,7 @@ labels:
 ---
 
 <div align="middle">
-  <img class="ui image" src="../images/luca-bravo-217276.jpg">
+  <img class="ui image" src="../images/second_nature.jpg">
 </div>
 
 
@@ -30,4 +30,4 @@ labels:
 
 <p>Just like how I started learning how to ride a bike without pedals, we started with the looks and created the home page mockup for our app. This first part was not too bad for me, since we learned about basic html and css skills prior to this assignment. The second step was to implement functions such as adding and editing contacts. This part was the real struggle to do it all by myself. The hardest part for me was in general to fully understand and connect which part of code is doing what. At the same time, I need to remember to import pages for appropriate files, and remember which file you are working on. Trying to remember which file you are supposed to edit was another challenge to me that was confusing, since a lot of files have the same names, but in different directories and could mean a whole different thing. </p>
 
-<p>When I finally was able to ride a bicycle on my own, I felt like I have accomplished something really significant. Even though I don’t own a bike till this day, I can ride a bike now because my body remembers how to do it. Unfortunately, I have not yet gotten to this point yet for learning how to create an app with Meteor, but I know it in my head that I will be able to get it after repetitions and many practices. So all I have to do now is to remember how I learned a bike when I was little, and put enough efforts into making the skills my own.  </p>
+<p>When I finally was able to ride a bicycle on my own, I felt like I have accomplished something really significant. Even though I don’t own a bike till this day, I can ride a bike now because my body remembers how to do it. Unfortunately, I have not yet gotten to this point yet for learning how to create an app with Meteor, but I know it in my head that I will be able to get it after repetitions and many practices. So all I have to do now is to remember how I learned a bike, and put enough efforts into making the skills my own.  </p>
