@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/UHvibe_Home.jpg
+image: images/UHvibe_Home.png
 title: <center>UHvibe</center>
 permalink: uhvibe.meteorapp.com
 date: 2017
@@ -10,7 +10,7 @@ labels:
   - Meteor
   - Software Engineering
   - Web application
-summary: In my ICS 314 Software Engineering class, my group created a web application for University of Hawaii students. 
+summary: In my ICS 314 Software Engineering class, my group and I created a web application for University of Hawaii students. 
 ---
 
 
@@ -18,10 +18,24 @@ summary: In my ICS 314 Software Engineering class, my group created a web applic
   
   <Br>
 
+  <div align="middle"><img src="../images/UHvibe_About.png"></div>
+
+
 <h1>Description</h1>
-<p>My final project for ICS 111 class was the first group programming project that I have ever participated into. We used Java programming with Eclipse, and our final project was to create anything using the skills we have learned over the semester.  My group created a simple shooting game, where the squares on the screen shoot downwards and the triangle which is the player-controlled object shoots back at the squares. When all of the squares are shot by the triangle, the player can proceed to the next level. We created three levels, where bullet speed that the enemies shoot at you increases as the level goes up. The player has 20 lives, and can earn 1 point each time the player hits the enemy with its bullets. </p>
+<p>For my ICS 314 Software Engineering class, my group and I created a web application specific for University of Hawaii students who are interested in music, and are looking for a group to gather with. The app allows any University of Hawaii System users to log in for use. Once logged in, the users can create a profile according to their music interests and search for other people in the system who created a profile. Through messaging, users with similar interests can get together. The application is useful if users are looking to create a band, do a session, talk about music, or even just to make new frieds. </p>
 
-<p>For the project, we planned out what everybody’s role is going to be to complete the project, but it became harder when one of our group members left the team before we wrote any of the code for the project. Despite an unexpected work load, my group was able to complete the project. I contributed to creating enemies and making them shoot bullets at a certain speed, making enemies disappear when they get shot, randomize bullet speeds accordingly, making levels of difficulty, and adding sound effects. </p>
+<div align="middle"><img src="../images/UHvibe_Steps.png"></div>
 
-<h1>Learning Outcomes</h1>
-<p>Through this project, the most important thing I learned was to work as a group. Combining somebody else’s code with yours was a harder task than I thought, since everybody writes code differently and you have to understand their code. When our combined code was not working and we got stuck, I read the code and went through it many times to understand what is going on and later I was able to fix the error. Other than the group work, I learned basic Java programming skills through this project such as being able to utilize for loop, making classes for the objects, scoping code in the correct way, adding images and sound effects, making objects user-controllable, etc. </p>
+<p>As seen above, the steps to utilize the app is very simple. First, a user would log in using their UH account. The user will then create a profile, search for other users with similar interests, and contact the person you are interested to get in touch with.</p>
+
+<div align="middle"><img src="../images/UHvibe_CreateProfile.png"></div>
+<div align="middle"><img src="../images/UHvibe_Profile.png"></div>
+<div align="middle"><img src="../images/UHvibe_Search.png"></div>
+<div align="middle"><img src="../images/UHvibe_Message.png"></div>
+
+
+<h1>Learning Outcomes to Overcome Challenges</h1>
+<p>My role in this project was to plan out the project, edit profile input subjects, create 'Your_Profile' and 'Edit_Profile'page, edit default data bases, make page appearances subscription-unique, make navigations from each page to another, work on 'Search Page' functionalities, and fix functionalities (bugs) in general throughout. I think I was able to plan out the project and fix accordingly so what the app does actually makes sense.</p>
+  <p>This project for me was one of the first-time experience in general to create an application with a group. One of the most challenging part for me was to find out what I did wrong after adding functionalities. Almost every time I tried to add some functionalities for the application, I made a mistake or was missing something, so I spent a lot of time trying to figure out what I did wrong. Although I had visions of what I wanted to do for the app and detailed planning, in reality, every small aspect to try and add on to the project was a hustle. However, thanks for this time spent to figure out my mistakes, I became more familiar and comfortable using meteor to create a web application.</p>
+  <p>Another one of the struggles I had while working on the project was to utilize Github correctly when editing code. When we all first started working on the project, we were trying to edit stimulaneously, but it created problems with our code on each of our computers. This set us back to get things done at that moment, but as time went by, we were better at managing our project using github project management system. At first, the most difficult part in the process of trying to learn project managing was to communicate well with each other so each group member knows the role. However, thanks to my group members Darlene and Jun, we were all able to communicate well through texts and Slack eventually despite busy schedules, and good communication lead to well contributions from each member of the group. As a result, I was able to experience what it is really like to work with others to produce one work.</p>
+
