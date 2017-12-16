@@ -14,25 +14,25 @@ summary: In my ICS 314 Software Engineering class, my group and I created a web 
 ---
 
 
-  <img src="../images/UHvibe_Home.png">
+  <div align="middle"><img src="../images/UHvibe_Home.png"></div>
   
   <p><Br></p>
  
   
- <img src="../images/UHvibe_About.png">
+ <div align="middle"><img src="../images/UHvibe_About.png"></div>
 
 
 <h1>Description</h1>
 <p>For my ICS 314 Software Engineering class, my group and I created a web application specific for University of Hawaii students who are interested in music, and are looking for a group to gather with. The app allows any University of Hawaii System users to log in for use. Once logged in, the users can create a profile according to their music interests and search for other people in the system who created a profile. Through messaging, users with similar interests can get together. The application is useful if users are looking to create a band, do a session, talk about music, or even just to make new frieds. </p>
 
-<img src="../images/UHvibe_Steps.png">
+<div align="middle"><img src="../images/UHvibe_Steps.png"></div>
 
 <p>As seen above, the steps to utilize the app is very simple. First, a user would log in using their UH account. The user will then create a profile, search for other users with similar interests, and contact the person you are interested to get in touch with.</p>
 
-<img src="../images/UHvibe_CreateProfile.png">
-<img src="../images/UHvibe_Profile.png">
-<img src="../images/UHvibe_Search.png">
-<img src="../images/UHvibe_Message.png">
+<div align="middle"><img src="../images/UHvibe_CreateProfile.png"></div>
+<div align="middle"><img src="../images/UHvibe_Profile.png"></div>
+<div align="middle"><img src="../images/UHvibe_Search.png"></div>
+<div align="middle"><img src="../images/UHvibe_Message.png"></div>
 
 
 <h1>Learning Outcomes to Overcome Challenges</h1>
