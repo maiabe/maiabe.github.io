@@ -14,7 +14,7 @@ summary: In my ICS 314 Software Engineering class, my group and I created a web 
 ---
 
 
-  <div align="middle"><img src="../images/UHvibe_Home.png"></div>
+  <div align="middle"><img class="ui image" src="../images/UHvibe_Home.png"></div>
   
   <Br>
  
