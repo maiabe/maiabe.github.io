@@ -14,10 +14,11 @@ summary: In my ICS 314 Software Engineering class, my group and I created a web 
 ---
 
 
-  <div align="middle"><img src="../images/UHvibe_Home.png"></div>
+  <img src="../images/UHvibe_Home.png">
   
   <Br>
-
+  <Br>
+  
   <div align="middle"><img src="../images/UHvibe_About.png"></div>
 
 
