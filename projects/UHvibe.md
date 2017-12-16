@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/UHvibe_Home.png
 title: <center>UHvibe</center>
-permalink: uhvibe.meteorapp.com
+permalink: projects/UHvibe
 date: 2017
 labels:
   - Javascript
