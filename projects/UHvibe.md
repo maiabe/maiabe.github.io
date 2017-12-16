@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/UHvibe_Home.png
+image: images/UHvibe_icon.png
 title: <center>UHvibe</center>
 permalink: projects/UHvibe
 date: 2017
