@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/UHvibe_icon.png
-title: <center>UHvibe</center>
+title: UHvibe
 permalink: projects/UHvibe
 date: 2017
 labels:
