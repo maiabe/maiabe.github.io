@@ -16,8 +16,8 @@ summary: In my ICS 314 Software Engineering class, my group and I created a web 
 
   <img src="../images/UHvibe_Home.png">
   
-  <Br>
-  <Br>
+  <p><Br></p>
+ 
   
  <img src="../images/UHvibe_About.png">
 
