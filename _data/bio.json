@@ -6,7 +6,7 @@
     "email": "maiabe@hawaii.edu",
     "phone": "",
     "website": "https://maiabe.github.io",
-    "summary": "I am a student pursuing for a BS degree in Computer Science at University of Hawaii at Manoa. I am expected to graduate in Spring 2019.",
+    "summary": "I am a student pursuing for a BS degree in Computer Science at University of Hawaii at Manoa. I am expected to graduate in Fall 2019.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "Basketball",
+      "name": "Sports",
       "keywords": [
       ]
     }
@@ -56,6 +56,14 @@
       "keywords": [
         "Java",
         "Javascript"
+        "C"
+      ]
+    },
+    {
+      "name": "Design Software",
+      "level": "",
+      "keywords": [
+        "Adobe Photoshop"
       ]
     },
     {
@@ -81,14 +89,15 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Eclipse"
+        "Eclipse",
+        "IntelliJ"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2019)",
+      "area": "Computer Science (expected Fall, 2019)",
       "studyType": "B.S.",
       "startDate": "2016-09-01",
       "endDate": "Present",
@@ -108,7 +117,9 @@
       "highlights": [
         "Contribute to increase sales through customer service",
         "Spread the knowledge about locally made Hawaiian products",
-        "Training new employees"
+        "Training new employees",
+        "Making Signs",
+        "Assting Accounting responsibilities"
       ]
     },
     {
