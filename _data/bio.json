@@ -34,12 +34,12 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "Software Engineering",
+      "name": "Web Development",
       "keywords": [
       ]
     },
@@ -54,9 +54,10 @@
       "name": "Language",
       "level": "",
       "keywords": [
+        "C",
+        "C++",
         "Java",
         "Javascript",
-        "C"
       ]
     },
     {
@@ -118,7 +119,7 @@
         "Contribute to increase sales through customer service",
         "Spread the knowledge about locally made Hawaiian products",
         "Training new employees",
-        "Making Signs",
+        "Creating Signs",
         "Accounting Assistant"
       ]
     },
@@ -164,15 +165,9 @@
   "awards": [
     {
       "title": "International Undergraduate Student Scholarship",
-      "date": "2016-Present",
+      "date": "Spring2016-Fall2018",
       "awarder": "State of Hawaii",
       "summary": "$10000/yr awarded to high-achieving international undergraduate students who has a minimum overall GPA of 3.5 at University of Hawaii." 
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
