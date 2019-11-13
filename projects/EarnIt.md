@@ -14,15 +14,15 @@ labels:
 summary: A web application developed for the final project in ICS491 Introduction to Secure Development class. 
 ---
 
+<br>
 
-  <div align="middle"><img class="ui image" src="../images/EarnIt_LandingPage.png"></div>
+<div align="middle"><img class="ui image" src="../images/EarnIt_LandingPage.png"></div>
   
-  <br>
- 
-  
-  <div align="middle"><img class="ui image" src="../images/EarnIt_About.png"></div>
+<br>
+   
+<div align="middle"><img class="ui image" src="../images/EarnIt_About.png"></div>
 
-  <br>
+<br>
 
 <h1>Description</h1>
 <p>
