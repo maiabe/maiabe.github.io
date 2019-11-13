@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/UHvibe_icon.png
+image: images/WWAT_Landing.png
 title: Women's Wellness Assurance Tracker
 permalink: projects/WWAT
 date: 2019
@@ -16,12 +16,9 @@ summary: A web application developed for the final project in ICS414 Software En
 ---
 
 
-  <center><img class="ui image" src="../images/UHvibe_Home.png"></center>
+  <div align="middle"><img class="ui image" src="../images/WWAT_LandingPage.png"></div>
   
   <Br>
- 
-  
- <div align="middle"><img src="../images/UHvibe_About.png"></div>
 
 
 <h1>Description</h1>
@@ -36,20 +33,34 @@ The app allows users to create an account, input data about period, ovulation, a
 The Yeelight connected to WWAT changes its color temperature to notify the user on the day of prediction for period, ovulation, or PMS.
 </p>
 
-<div align="middle"><img src="../images/UHvibe_Steps.png"></div>
+<div align="middle"><img src="../images/WWAT_Login.png"></div>
 
 <p>
 First, a user logs in or signs up with an email address and a password. The Yeelight bulb turns on as the user logs in or signs in. 
-The user will then enter the related data such as typical period cycle and period duration and PMS duration.
+</p>
+
+<div align="middle"><img src="../images/WWAT_CreateProfile.png"></div>
+<div align="middle"><img src="../images/WWAT_EditProfile.png"></div>
+<div align="middle"><img src="../images/WWAT_InputData.png"></div>
+
+<p>
+The user will then create a profile and enter the related data such as typical period cycle and period duration and PMS duration.
+</p>
+
+<div align="middle"><img src="../images/WWAT_UserHome.png"></div>
+
+<p>
 In the user home page, the user can then view the predicted period, ovulation, and PMS days for the next 12 months in the calendar. 
+</p>
+
+<div align="middle"><img src="../images/WWAT_UserHome2.png"></div>
+<div align="middle"><img src="../images/WWAT_UserHome3.png"></div>
+
+<p>
 When the current date falls on the period prediction date, fertility prediction date, or the PMS prediction date, the light temperature of the Yeelight bulb will change. 
 </p>
 
-<div align="middle"><img src="../images/UHvibe_CreateProfile.png"></div>
-<div align="middle"><img src="../images/UHvibe_Profile.png"></div>
-<div align="middle"><img src="../images/UHvibe_Search.png"></div>
-<div align="middle"><img src="../images/UHvibe_Message.png"></div>
-
+<br>
 
 <h1>Learning Outcomes</h1>
 <p>
