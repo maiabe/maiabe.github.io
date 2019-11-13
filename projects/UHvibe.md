@@ -36,7 +36,7 @@ UH VIBE is a web application for University of Hawaii students who are intereste
 <div align="middle"><img src="../images/UHvibe_Message.png"></div>
 
 
-<h1>Learning Outcomes to Overcome Challenges</h1>
+<h1>Learning Outcomes</h1>
 <p>My role in this group project was to :
   <li> Create a site Mockup </li>
   <li> Edit profile input subjects </li>
