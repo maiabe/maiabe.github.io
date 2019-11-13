@@ -47,7 +47,7 @@ The user can view how much more they need to save in order to achieve the goal.
 <div align="middle"><img src="../images/UHvibe_Message.png"></div>
 
 
-<h1>Learning Outcomes to Overcome Challenges</h1>
+<h1>Learning Outcomes</h1>
 <p>
 This was an individual project and my first application developed using Java and SQL. 
 The most challenging part of the project was to use Oracle SQL. 
