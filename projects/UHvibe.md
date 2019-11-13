@@ -14,27 +14,34 @@ summary: A web application for University of Hawaii students developed as a grou
 ---
 
 
-  <center><img class="ui image" src="../images/UHvibe_Home.png"></center>
+<div align="middle"><img class="ui image" src="../images/UHvibe_Home.png"></div>
   
-  <Br>
+<br>
  
   
- <div align="middle"><img src="../images/UHvibe_About.png"></div>
+<div align="middle"><img src="../images/UHvibe_About.png"></div>
 
+<br>
 
 <h1>Description</h1>
 <p>UH VIBE is a web application developed for a group project assigned in ICS314 Software Engineering I class. The app was developed using basic HTML and CSS, Javascript Meteor framework, Semantic UI framework, and IntelliJ Idea.
 UH VIBE is a web application for University of Hawaii students who are interested in music. The app allows any UH system users to look for a group of people to gather with based on their music interests. The app requires users to log in, create a profile with information about thier music interests, and search for other people in the system who have UH VIBE profiles. The app has a messaging system where users can contact each other to get together. The application is useful for users who are looking to create a band, do a session, talk about music, or even just to make new frieds. </p>
 
+<br>
+
 <div align="middle"><img src="../images/UHvibe_Steps.png"></div>
 
 <p>As seen above, the steps are very simple. First, a user logs in using their UH account. The user will then create a profile, search for other users with similar music interests, and contact the person you want to get in touch with.</p>
+
+<br>
 
 <div align="middle"><img src="../images/UHvibe_CreateProfile.png"></div>
 <div align="middle"><img src="../images/UHvibe_Profile.png"></div>
 <div align="middle"><img src="../images/UHvibe_Search.png"></div>
 <div align="middle"><img src="../images/UHvibe_Message.png"></div>
 
+<br>
+<br>
 
 <h1>Learning Outcomes</h1>
 <p>My role in this group project was to :
