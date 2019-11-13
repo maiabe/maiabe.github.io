@@ -71,7 +71,6 @@ The user can view how much more they need to save in order to achieve the goal.
 </p>
 
 <br>
-<br>
 
 <h1>Learning Outcomes</h1>
 <p>
@@ -82,3 +81,6 @@ Though I learned about the basic SQL in class lectures, I was very new to the la
 For example, when writing a schema, the data type for 'VARCHAR' in Oracle SQL had to be written as 'VARCHAR2', but it took me a while to figure out the correct structure. 
 Through this project, I became more comfortable with basic structure of SQL and Java Server Faces framework. 
 </p>
+
+<br>
+
