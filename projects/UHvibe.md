@@ -12,7 +12,7 @@ labels:
   - Web application
 summary: A web application for University of Hawaii students developed as a group, for ICS314 Software Engineering I class. 
 ---
-
+<br>
 
 <div align="middle"><img class="ui image" src="../images/UHvibe_Home.png"></div>
   
