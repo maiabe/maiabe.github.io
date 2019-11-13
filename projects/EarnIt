@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/UHvibe_icon.png
+image: images/EarnIt_LandingPage.png
 title: EarnIt
 permalink: projects/EarnIt
 date: 2019
@@ -15,13 +15,12 @@ summary: A web application developed for the final project in ICS491 Introductio
 ---
 
 
-  <center><img class="ui image" src="../images/UHvibe_Home.png"></center>
+  <div align="middle"><img class="ui image" src="../images/EarnIt_LandingPage.png"></div>
   
   <Br>
  
   
- <div align="middle"><img src="../images/UHvibe_About.png"></div>
-
+  <div align="middle"><img class="ui image" src="../images/EarnIt_About.png"></div>
 
 <h1>Description</h1>
 <p>
@@ -33,22 +32,33 @@ The app requires users to login, create a profile, enter income and expense, and
 The status can be viewed as a graph in the user home page.
 </p>
 
-<div align="middle"><img src="../images/UHvibe_Steps.png"></div>
+<br>
 
+<div align="middle"><img class="ui image" src="../images/EarnIt_Login.png"></div>
 <p>
 First, a user logs in or signs up with an email address and a password. 
+</p>
+
+<div align="middle"><img class="ui image" src="../images/EarnIt_Profile.png"></div>
+<div align="middle"><img class="ui image" src="../images/EarnIt_Income.png"></div>
+<p>
 The user can then enter a profile information such as the savings goal.
 The user can enter an income in the income page and view the income history in the table shown right below.
-In the expense page, the user can create categories of expenses and enter the specific expense within each category.
+</p>
+
+<div align="middle"><img class="ui image" src="../images/EarnIt_SpendingCategory.png"></div>
+<div align="middle"><img class="ui image" src="../images/EarnIt_Spending.png"></div>
+<p>
+In the Spending page, the user can create categories of expenses and enter the specific expense within each category.
 The history of expense can be viewed in the expense table. 
+</p>
+
+<div align="middle"><img class="ui image" src="../images/EarnIt_UserHome.png"></div>
+<p> 
 The user home page shows the pie graph for each income and expense for the current month, and the user can view how much more they need to save in the current month in order to achieve the savings goal.
 </p>
 
-<div align="middle"><img src="../images/UHvibe_CreateProfile.png"></div>
-<div align="middle"><img src="../images/UHvibe_Profile.png"></div>
-<div align="middle"><img src="../images/UHvibe_Search.png"></div>
-<div align="middle"><img src="../images/UHvibe_Message.png"></div>
-
+<br>
 
 <h1>Learning Outcomes</h1>
 <p>
