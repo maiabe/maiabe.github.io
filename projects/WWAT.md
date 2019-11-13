@@ -14,12 +14,11 @@ labels:
   - Semantic UI React
 summary: A web application developed for the final project in ICS414 Software Engineering II class. 
 ---
-
+<br>
 
 <div align="middle"><img class="ui image" src="../images/WWAT_LandingPage.png"></div>
   
 <br>
-
 
 <h1>Description</h1>
 <p>
@@ -64,7 +63,6 @@ In the user home page, the user can then view the predicted period, ovulation, a
 When the current date falls on the period prediction date, fertility prediction date, or the PMS prediction date, the light temperature of the Yeelight bulb will change. 
 </p>
 
-<br>
 <br>
 
 <h1>Learning Outcomes</h1>
