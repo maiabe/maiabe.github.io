@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/UHvibe_icon.png
+image: images/MoneyManager_LandingPage.png
 title: Money Manager
 permalink: projects/MoneyManager
 date: 2018
@@ -15,12 +15,9 @@ summary: A web application developed for the final project in ICS321 Database Sy
 ---
 
 
-  <center><img class="ui image" src="../images/UHvibe_Home.png"></center>
+  <div align="middle"><img class="ui image" src="../images/MoneyManager_LandingPage.png"></div>
   
   <Br>
- 
-  
- <div align="middle"><img src="../images/UHvibe_About.png"></div>
 
 
 <h1>Description</h1>
@@ -32,20 +29,38 @@ In the main page, the goal set by the user is shown, as well as the remaining am
 The message changes to tell the user achieved the goal when the income exceeds the expense and cost of the goal.
 </p>
 
-<div align="middle"><img src="../images/UHvibe_Steps.png"></div>
-
+<div align="middle"><img src="../images/MoneyManager_Login.png"></div>
 <p>
-First, a user logs in or signs up with an email address and a password. 
+First, a user logs in or signs up with an email address and a password.
+</p>
+
+<div align="middle"><img src="../images/MoneyManager_CreateAccount.png"></div>
+<div align="middle"><img src="../images/MoneyManager_Profile.png"></div>
+<div align="middle"><img src="../images/MoneyManager_UserHome.png"></div>
+<p>
+The user creates a profile.
+</p>
+
+<div align="middle"><img src="../images/MoneyManager_SetGoal.png"></div>
+<div align="middle"><img src="../images/MoneyManager_UserHome2.png"></div>
+<p>
 The user will then enter the description of a goal and the cost to achieve the goal.
+</p>
+
+<div align="middle"><img src="../images/MoneyManager_Income.png"></div>
+<div align="middle"><img src="../images/MoneyManager_IncomeTable.png"></div>
+<div align="middle"><img src="../images/MoneyManager_Expense.png"></div>
+<div align="middle"><img src="../images/MoneyManager_ExpenseTable.png"></div>
+<p>
 The user can enter an income or expense description and amount, which will be inserted in the history table.
+</p>
+
+<div align="middle"><img src="../images/MoneyManager_UserHome3.png"></div>
+<p>
 The user can view how much more they need to save in order to achieve the goal. 
 </p>
 
-<div align="middle"><img src="../images/UHvibe_CreateProfile.png"></div>
-<div align="middle"><img src="../images/UHvibe_Profile.png"></div>
-<div align="middle"><img src="../images/UHvibe_Search.png"></div>
-<div align="middle"><img src="../images/UHvibe_Message.png"></div>
-
+<br>
 
 <h1>Learning Outcomes</h1>
 <p>
