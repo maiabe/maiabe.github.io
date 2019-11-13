@@ -21,11 +21,11 @@ summary: A simple shooting game developed as a group for ICS 111 final project u
 
 <p>For the project, we planned out what everybody’s role is going to be to complete the project, but it became harder when one of our group members left the team. Despite an unexpected work load, my group was able to complete the project. 
 My role in this project was to :
-<br>  - Create enemies (square objects) that shoot bullets at a set speed
-<br>  - Making enemies disappear when they get shot
-<br>  - Randomize bullet speeds accordingly
-<br>  - Making levels of difficulty
-<br>  - Adding sound effects
+  <li> Create enemies (square objects) that shoot bullets at a set speed </li>
+  <li> Making enemies disappear when they get shot </li>
+  <li> Randomize bullet speeds accordingly </li>
+  <li> Making levels of difficulty </li>
+  <li> Adding sound effects </li>
 </p>
 <h1>Learning Outcomes</h1>
 <p>Through this project, the most important thing I learned was how to work as a group. Combining somebody else’s code mine was a harder task than I thought, because everybody writes code differently and you have to understand their code. The hardest part in the project was to find out the bug in the code when I combined the code with my group member's code. I reviewed the code many times to figure out what was wrong with it, and spent a lot of time trying to figure out the bug. Once I found out that one of the parts in the code was in the wrong scope and finally fixed the bug, I was very happy and excited. Even though we spent a lot of time and struggled a lot, I felt like I was able to enjoy the feeling of accomplishment when we were able to deliver the project. </p>
