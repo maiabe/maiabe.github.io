@@ -12,9 +12,9 @@ summary: A simple shooting game developed as a group for ICS 111 final project u
 ---
 
 
-  <div align="middle"><img src="../images/Shooting_Game_2.png"></div>
+<div align="middle"><img src="../images/Shooting_Game_2.png"></div>
   
-  <Br>
+<br>
 
 <h1>Description</h1>
 <p>For this project, we used Java and Eclipse as our IDE. Our final project was to create anything using the skills we have learned over the semester.  My group created a simple shooting game, where the squares on the screen shoot downwards and the triangle which is the player-controlled object shoots back at the squares. When all of the squares are shot by the triangle, the player can proceed to the next level. We created three levels, where bullet speed that the enemies shoot at the triangle increases as the level goes up. The player has 20 lives, and can earn 1 point each time the player hits the enemy with its bullets. </p>
@@ -27,6 +27,9 @@ My role in this project was to :
   <li> Making levels of difficulty </li>
   <li> Adding sound effects </li>
 </p>
+
+<br>
+
 <h1>Learning Outcomes</h1>
 <p>This project for me was the first time to develop an app as a group. The most important thing I learned was how to work as a group. Combining somebody else’s code mine was a harder task than I thought, because everybody writes code differently and you have to understand their code. The hardest part in the project was to find out the bug in the code when I combined the code with my group member's code. I reviewed the code many times to figure out what was wrong with it, and spent a lot of time trying to figure out the bug. Once I found out that one of the parts in the code was in the wrong scope and finally fixed the bug, I was very happy and excited. Even though we spent a lot of time and struggled a lot, I felt like I was able to enjoy the feeling of accomplishment when we were able to deliver the project. </p>
 <p>In this project, I learned the basic Java programming skills such as :
