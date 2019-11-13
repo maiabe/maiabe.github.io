@@ -10,7 +10,7 @@ labels:
   - Eclipse
 summary: A simple shooting game developed as a group for ICS 111 final project using eclipse.
 ---
-
+<br>
 
 <div align="middle"><img src="../images/Shooting_Game_2.png"></div>
   
