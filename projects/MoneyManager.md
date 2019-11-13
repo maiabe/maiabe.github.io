@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/MoneyManager_LandingPage.png
+image: images/MoneyManager_icon.png
 title: Money Manager
 permalink: projects/MoneyManager
 date: 2018
@@ -17,7 +17,7 @@ summary: A web application developed for the final project in ICS321 Database Sy
 
   <div align="middle"><img class="ui image" src="../images/MoneyManager_LandingPage.png"></div>
   
-  <Br>
+  <br>
 
 
 <h1>Description</h1>
@@ -29,10 +29,14 @@ In the main page, the goal set by the user is shown, as well as the remaining am
 The message changes to tell the user achieved the goal when the income exceeds the expense and cost of the goal.
 </p>
 
+<br>
+
 <div align="middle"><img src="../images/MoneyManager_Login.png"></div>
 <p>
 First, a user logs in or signs up with an email address and a password.
 </p>
+
+<br>
 
 <div align="middle"><img src="../images/MoneyManager_CreateAccount.png"></div>
 <div align="middle"><img src="../images/MoneyManager_Profile.png"></div>
@@ -41,11 +45,15 @@ First, a user logs in or signs up with an email address and a password.
 The user creates a profile.
 </p>
 
+<br>
+
 <div align="middle"><img src="../images/MoneyManager_SetGoal.png"></div>
 <div align="middle"><img src="../images/MoneyManager_UserHome2.png"></div>
 <p>
 The user will then enter the description of a goal and the cost to achieve the goal.
 </p>
+
+<br>
 
 <div align="middle"><img src="../images/MoneyManager_Income.png"></div>
 <div align="middle"><img src="../images/MoneyManager_IncomeTable.png"></div>
@@ -55,11 +63,14 @@ The user will then enter the description of a goal and the cost to achieve the g
 The user can enter an income or expense description and amount, which will be inserted in the history table.
 </p>
 
+<br>
+
 <div align="middle"><img src="../images/MoneyManager_UserHome3.png"></div>
 <p>
 The user can view how much more they need to save in order to achieve the goal. 
 </p>
 
+<br>
 <br>
 
 <h1>Learning Outcomes</h1>
