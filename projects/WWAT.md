@@ -51,7 +51,7 @@ When the current date falls on the period prediction date, fertility prediction 
 <div align="middle"><img src="../images/UHvibe_Message.png"></div>
 
 
-<h1>Learning Outcomes to Overcome Challenges</h1>
+<h1>Learning Outcomes</h1>
 <p>
 My role in this group project was to : 
 	<li> Create a web page mock-up for the app </li>
