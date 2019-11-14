@@ -13,12 +13,11 @@ labels:
   - Web application
 summary: A web application developed for the final project in ICS321 Database Systems I class. 
 ---
+<br>
 
-
-  <div align="middle"><img class="ui image" src="../images/MoneyManager_LandingPage.png"></div>
+<div align="middle"><img class="ui image" src="../images/MoneyManager_LandingPage.png"></div>
   
-  <br>
-
+<br>
 
 <h1>Description</h1>
 <p>
@@ -31,41 +30,41 @@ The message changes to tell the user achieved the goal when the income exceeds t
 
 <br>
 
-<div align="middle"><img src="../images/MoneyManager_Login.png"></div>
+<div align="middle"><img class="ui image" src="../images/MoneyManager_Login.png"></div>
 <p>
 First, a user logs in or signs up with an email address and a password.
 </p>
 
 <br>
 
-<div align="middle"><img src="../images/MoneyManager_CreateAccount.png"></div>
-<div align="middle"><img src="../images/MoneyManager_Profile.png"></div>
-<div align="middle"><img src="../images/MoneyManager_UserHome.png"></div>
+<div align="middle"><img class="ui image" src="../images/MoneyManager_CreateAccount.png"></div>
+<div align="middle"><img class="ui image" src="../images/MoneyManager_Profile.png"></div>
+<div align="middle"><img class="ui image" src="../images/MoneyManager_UserHome.png"></div>
 <p>
 The user creates a profile.
 </p>
 
 <br>
 
-<div align="middle"><img src="../images/MoneyManager_SetGoal.png"></div>
-<div align="middle"><img src="../images/MoneyManager_UserHome2.png"></div>
+<div align="middle"><img class="ui image" src="../images/MoneyManager_SetGoal.png"></div>
+<div align="middle"><img class="ui image" src="../images/MoneyManager_UserHome2.png"></div>
 <p>
 The user will then enter the description of a goal and the cost to achieve the goal.
 </p>
 
 <br>
 
-<div align="middle"><img src="../images/MoneyManager_Income.png"></div>
-<div align="middle"><img src="../images/MoneyManager_IncomeTable.png"></div>
-<div align="middle"><img src="../images/MoneyManager_Expense.png"></div>
-<div align="middle"><img src="../images/MoneyManager_ExpenseTable.png"></div>
+<div align="middle"><img class="ui image" src="../images/MoneyManager_Income.png"></div>
+<div align="middle"><img class="ui image" src="../images/MoneyManager_IncomeTable.png"></div>
+<div align="middle"><img class="ui image" src="../images/MoneyManager_Expense.png"></div>
+<div align="middle"><img class="ui image" src="../images/MoneyManager_ExpenseTable.png"></div>
 <p>
 The user can enter an income or expense description and amount, which will be inserted in the history table.
 </p>
 
 <br>
 
-<div align="middle"><img src="../images/MoneyManager_UserHome3.png"></div>
+<div align="middle"><img class="ui image" src="../images/MoneyManager_UserHome3.png"></div>
 <p>
 The user can view how much more they need to save in order to achieve the goal. 
 </p>
