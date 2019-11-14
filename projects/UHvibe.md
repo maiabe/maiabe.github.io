@@ -19,7 +19,7 @@ summary: A web application for University of Hawaii students developed as a grou
 <br>
  
   
-<div align="middle"><img src="../images/UHvibe_About.png"></div>
+<div align="middle"><img class="ui image" src="../images/UHvibe_About.png"></div>
 
 <br>
 
@@ -29,16 +29,16 @@ UH VIBE is a web application for University of Hawaii students who are intereste
 
 <br>
 
-<div align="middle"><img src="../images/UHvibe_Steps.png"></div>
+<div align="middle"><img class="ui image" src="../images/UHvibe_Steps.png"></div>
 
 <p>As seen above, the steps are very simple. First, a user logs in using their UH account. The user will then create a profile, search for other users with similar music interests, and contact the person you want to get in touch with.</p>
 
 <br>
 
-<div align="middle"><img src="../images/UHvibe_CreateProfile.png"></div>
-<div align="middle"><img src="../images/UHvibe_Profile.png"></div>
-<div align="middle"><img src="../images/UHvibe_Search.png"></div>
-<div align="middle"><img src="../images/UHvibe_Message.png"></div>
+<div align="middle"><img class="ui image" src="../images/UHvibe_CreateProfile.png"></div>
+<div align="middle"><img class="ui image" src="../images/UHvibe_Profile.png"></div>
+<div align="middle"><img class="ui image" src="../images/UHvibe_Search.png"></div>
+<div align="middle"><img class="ui image" src="../images/UHvibe_Message.png"></div>
 
 <br>
 <br>
@@ -54,3 +54,4 @@ UH VIBE is a web application for University of Hawaii students who are intereste
 <p>Another struggle I had during this project was to utilize Github efficiently. In the beginning, each group member was editing the code simultaneously, which created problems because there were times that two people were working on the same part at the same time. The main reason for the problem was the lack in communication amongst team members. This set us back to get things done at that moment, but we became better at managing tasks on GitHub as the project progressed. We also became better at communicating with each other using application such as Slack.</p>
 
 <a href="http://uhvibe.meteorapp.com/">Visit UHvibe Here</a>
+<br>
