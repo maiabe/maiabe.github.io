@@ -34,31 +34,31 @@ The Yeelight connected to WWAT changes its color temperature to notify the user 
 
 <br>
 
-<div align="middle"><img src="../images/WWAT_Login.png"></div>
+<div align="middle"><img class="ui image" src="../images/WWAT_Login.png"></div>
 <p>
 First, a user logs in or signs up with an email address and a password. The Yeelight bulb turns on as the user logs in or signs in. 
 </p>
 
 <br>
 
-<div align="middle"><img src="../images/WWAT_CreateProfile.png"></div>
-<div align="middle"><img src="../images/WWAT_EditProfile.png"></div>
-<div align="middle"><img src="../images/WWAT_InputData.png"></div>
+<div align="middle"><img class="ui image" src="../images/WWAT_CreateProfile.png"></div>
+<div align="middle"><img class="ui image" src="../images/WWAT_EditProfile.png"></div>
+<div align="middle"><img class="ui image" src="../images/WWAT_InputData.png"></div>
 <p>
 The user will then create a profile and enter the related data such as typical period cycle and period duration and PMS duration.
 </p>
 
 <br>
 
-<div align="middle"><img src="../images/WWAT_UserHome.png"></div>
+<div align="middle"><img class="ui image" src="../images/WWAT_UserHome.png"></div>
 <p>
 In the user home page, the user can then view the predicted period, ovulation, and PMS days for the next 12 months in the calendar. 
 </p>
 
 <br>
 
-<div align="middle"><img src="../images/WWAT_UserHome2.png"></div>
-<div align="middle"><img src="../images/WWAT_UserHome3.png"></div>
+<div align="middle"><img class="ui image" src="../images/WWAT_UserHome2.png"></div>
+<div align="middle"><img class="ui image" src="../images/WWAT_UserHome3.png"></div>
 <p>
 When the current date falls on the period prediction date, fertility prediction date, or the PMS prediction date, the light temperature of the Yeelight bulb will change. 
 </p>
@@ -83,3 +83,5 @@ There were still restirctions for the react-calendar but once it was intalled, t
 Another hard part of this project was to learn how to use the React library. 
 This was the first time I developed an app using React, but through this project I learned the basic structure of how to utilize components in different pages. 
 </p>
+
+<br>
