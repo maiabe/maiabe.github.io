@@ -6,7 +6,7 @@
     "email": "maiabe@hawaii.edu",
     "phone": "",
     "website": "https://maiabe.github.io",
-    "summary": "I am a student pursuing for a BS degree in Computer Science at University of Hawaii at Manoa. I am expected to graduate in Fall 2019.",
+    "summary": "Graduated in December 2019 from the University of Hawaii at Manoa with BS in Computer Science",
     "location": {
       "address": "",
       "postalCode": "",
@@ -98,11 +98,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2019)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2016-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2019-12-21",
+      "gpa": "3.8",
       "courses": [
       ]
     }
